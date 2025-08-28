@@ -19,7 +19,7 @@ Prerequisites
 You should have Python 3.6 or later installed.
 
 1. Clone the Repository
-git clone https://github.com/your-username/client-kpi-analysis.git
+git clone https://github.com/Musu581/client-kpi-analysis.git
 cd client-kpi-analysis
 
 2. Set Up a Virtual Environment
